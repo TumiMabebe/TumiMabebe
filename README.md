@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TumiMabebe
 - 👀 I’m interested in information Technology
-- 🌱 I’m currently learning about Cloud Computing
-- 💞️ I’m looking to collaborate on cloud computing programs
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me, reach me at, mabebetumi@gmail.com
 
 <!---
